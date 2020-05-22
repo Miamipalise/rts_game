@@ -1,0 +1,9 @@
+pygame==1.9.5
+eventlet
+greenlet
+python-engineio
+requests
+websocket-client
+python-socketio
+pytest
+pytest-benchmark
